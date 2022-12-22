@@ -1,28 +1,29 @@
 /*  Hi! your going to write styles here in the next couple activities. */
-.header{
-  height:250px;
-  max-height:500px;
-  background-image: url(../images/uspsBackground.png)
-  background-size:cover;
-  background-repeat:no-repeat;
-  background-position:bottom;
+
+.header {
+ height:250px;
+ max-height:500px;
+ background-image:url(../images/upsBackground.png);
+ background-size:cover;
+ background-repeat:no-repeat;
+ background-position:bottom;
 }
 
-#pageTopic{
+#pageTopic {
   text-align:center
 }
-.colorContainer {
-  display:inline-block;
-  margin:15px;
+ .colorContainer {
+ display:inline-block;
+ margin:15px;
 }
 
 .swatch {
-  height:200px;
-  width:170px;
-  border:1px solid black;
+ height:200px;
+ width:170px;
+ border:1px solid black;
 }
 .hexCode {
- padding=15px;
+ padding:15px;
  text-align:center;
  border:1px solid black;
  border-top:none;
@@ -32,13 +33,13 @@
 }
 
 .type_container {
- display=inline-block;
+ display:inline-block;
  margin:20px;
   
 }
 
 .button {
- display=inline-block;
+ display:inline-block;
  padding:15px;
  margin:15px;
  width:150px;
@@ -63,7 +64,7 @@
 }
 
 .lightBlue {
-  background-color:#12z0f6;
+  background-color:#13a0f6;
 }
 
 .red {
@@ -75,6 +76,113 @@
 }
 
 .lightBlue {
-  background-color:#12z0f6;
+  background-color:#13A0F6;
 }
 
+.lightGreen {
+  background-color:#8ABE48;
+}
+
+.type_container {
+  display:inline-block;
+  margin: 20px;
+}
+
+
+
+.primary{ 
+  background-color:#2b459A;
+  }
+
+.success{
+  background-color:#8ABE48;
+}
+.danger {
+  background-color: #f84848;
+}
+.warning{
+  background-color:#FC7705;
+}
+.info {
+  background-color: #0099FA;
+}
+.primaryActive {
+  background-color:#3A66B7;
+}
+.successActive {
+  background-color:#668c35;
+}
+.dangerActive {
+  background-color:#Ad4848;
+}
+
+.warningActive {
+  background-color:#Ba7a43;
+}
+.infoActive {
+  background-color:#4386ba;
+}
+
+.sectionHead {
+  border-bottom:8ppx solid #dddddd
+  }
+
+/* <div class="colorContainer">
+      <div class="swatch darkBlue"></div>
+      <div class="hexCode"> #333366</div>
+</div>
+
+<div class="colorContainer">
+      <div class="swatch darkGrey"></div>
+      <div class="hexCode"> #545454</div>
+</div>
+    
+<div class="colorContainer">
+      <div class="swatch lightGrey"></div>
+      <div class="hexCode"> #E3E3E3</div>
+</div>
+  
+<div class="colorContainer">
+      <div class="swatch white"></div>
+      <div class="hexCode"> #FFFFF</div>
+</div>
+  
+<div class="colorContainer">
+      <div class="swatch lightBlue"></div>
+      <div class="hexCode"> #13A0F6</div>
+</div>
+
+  
+<h2 class="sectionHead"> Text Colors</h2> 
+ 
+<div class="colorContainer">
+      <div class="swatch darkBlue"></div>
+      <div class="hexCode"> #333366</div>
+</div>
+
+<div class="colorContainer">
+      <div class="swatch darkGrey"></div>
+      <div class="hexCode"> #545454</div>
+</div>  
+
+  
+<h2 class="sectionHead"> Alert Colors</h2> 
+ 
+<div class="colorContainer">
+      <div class="swatch red"></div>
+      <div class="hexCode"> #F84848</div>
+</div>
+
+<div class="colorContainer">
+      <div class="swatch orange"></div>
+      <div class="hexCode"> #FC7705</div>
+</div> 
+  
+<div class="colorContainer">
+      <div class="swatch lightBlue"></div>
+      <div class="hexCode"> #13Z0F6</div>
+</div> 
+  
+    <div class="colorContainer">
+      <div class="swatch lightGreen"></div>
+      <div class="hexCode"> #8ABE48</div> */
