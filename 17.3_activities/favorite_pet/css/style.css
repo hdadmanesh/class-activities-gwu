@@ -1,0 +1,42 @@
+nav {
+    background-color: rgb(224, 224, 224);
+    height: 50px;
+}
+
+.menu-item {
+    display:inline-block;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: green;
+    text-align: center;
+    vertical-align: middle;
+    padding: 010px;
+}
+
+.sidebar {
+    width:29%;
+    background-color:rgb(252, 240, 219);
+    float:left;
+    height: 800px;
+}
+
+.main-content {
+    width:50%;
+    float:left;
+    background-color:rgb(221, 218, 214);
+
+}.pet-name img {
+
+    width:150px;
+    text-align: center;
+}
+
+.pet-content {
+    padding:20px
+}
+
+.pet-content img {
+    float: left;
+    margin: right 20px;
+}
