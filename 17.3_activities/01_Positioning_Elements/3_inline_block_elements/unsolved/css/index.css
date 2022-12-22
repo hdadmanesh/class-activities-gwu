@@ -4,7 +4,9 @@ nav {
 }
 
 /* target the class of inline-block below */
-
+.inline-block{
+  display: inline-block
+}
 /* target the class of .left below */
 
 /* target the class of .right below */
