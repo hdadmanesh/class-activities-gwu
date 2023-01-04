@@ -24,11 +24,11 @@ nav {
 .main-content {
     width:50%;
     float:left;
-    background-color:rgb(221, 218, 214);
+    background-color:rgb(251, 165, 52);}
+    
+.pet-name img {
 
-}.pet-name img {
-
-    width:150px;
+    width:300px;
     text-align: center;
 }
 
