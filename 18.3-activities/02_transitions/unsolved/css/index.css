@@ -20,10 +20,16 @@
   text-align: center;
   height: 50px;
   /* Add the css property transition here! */
-
+  transition: 0.4s;
+  transition: scale(3,3);
 }
 /* active state */
 .hoverMe:hover {
   /* Add your hover state css here. */
-
+  background-color: rgb(171, 156, 69);
+  color: yellow;
+  border-color:blue;
+  border-style: dashed;
+  font-size: 20px;
+  
 }
