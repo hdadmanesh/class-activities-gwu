@@ -1,16 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
   }
-  /* Header Styles */
-  .header {
-    background-image: url(../images/upsBackground.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    max-height: 500px;
-    height: 250px;
-    background-position: bottom;
-   
-  }
 
   /* Typography CSS */
   .type_container {
